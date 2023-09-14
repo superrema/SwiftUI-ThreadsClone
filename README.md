@@ -1,4 +1,5 @@
 # SwiftUI-ThreadsClone
+# INTRODUCTION
 This iOS project is all about using SwiftUI and learning new design trends
 Most techniques were learned from a course at AppStuff
 
